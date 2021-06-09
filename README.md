@@ -1,6 +1,6 @@
 # Nandini_Thimmireddygari-AboutMe
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi Everyone! I am Nandini Thimmireddygari.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi Everyone! I am Nandini Thimmireddygari.
 
 :eyes: Interested in Web development,Python Programing and Data Analysis.
 
