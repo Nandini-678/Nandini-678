@@ -20,6 +20,24 @@
 
 <br/>
 
+## Profile Overview
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎯 **Role** | AI / Machine Learning Engineer |
+| 🏢 **Currently at** | Rootent Technologies |
+| 📈 **Experience** | Mid-level — production ML/TTS systems, cloud infra, data analytics |
+| 🎓 **Education** | MS Computer Science, NJIT · B.Tech CS (Big Data Analytics), SRM University |
+| ☁️ **Core Stack** | Python · PyTorch · GCP · Docker · LangChain |
+| 📍 **Location** | India |
+| 💬 **Open to** | AI/ML engineering roles, RAG & LLM systems, MLOps collaboration |
+
+</div>
+
+<br/>
+
 ## About Me
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/DenverCoder1/CI-CD-Flow-GIF/master/cicd.gif" />
@@ -30,7 +48,6 @@
 - 📊 Background in **Power BI / Tableau** analytics and dashboarding
 - 🌱 Currently deepening expertise in **System Design, DevOps, and Distributed AI Infra**
 - 💬 Ask me about **RAG pipelines, model optimization, and voice/TTS systems**
-- 📍 Based in **India**
 
 <br clear="right"/>
 
@@ -71,36 +88,24 @@
 
 <br/>
 
-## GitHub Stats
+## Experience
 
-<div align="center">
+<table>
+<tr><td>
 
-<img src="https://img.shields.io/github/followers/Nandini-678?label=Followers&style=for-the-badge&color=8E75B2&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/stars/Nandini-678?label=Stars&style=for-the-badge&color=8E75B2&labelColor=1a1b27" />
-<img src="https://komarev.com/ghpvc/?username=Nandini-678&label=Profile%20Views&style=for-the-badge&color=8E75B2" />
+**AI/ML Engineer** — Rootent Technologies · *Aug 2026 – Present*
 
-<br/><br/>
+**Machine Learning Engineer (Pod Lead)** — Vosyn · *Feb 2025 – Jul 2026*
+Architected production-grade ML/TTS pipelines (Python, PyTorch, Docker, Flask); built GCP-native CI/CD cutting deployment time by 40%; led a cross-functional ML pod.
 
-| Repo | Language | Focus |
-|---|---|---|
-| [DataWarehouseAndMining_Project](https://github.com/Nandini-678/DataWarehouseAndMining_Project) | Jupyter Notebook | Fake job detection using ML classification |
-| [Internship-Project](https://github.com/Nandini-678/Internship-Project) | Jupyter Notebook | Classification techniques on student performance data |
-| [APSSDC_DataScienceInternship_Task](https://github.com/Nandini-678/APSSDC_DataScienceInternship_Task_AP19110010128) | Jupyter Notebook | Data science internship task |
+**Data Analyst Summer Intern** — Apollo Pharmacies Pvt. Ltd. · *May 2024 – Aug 2024*
+RFM segmentation and forecasting models that reduced stockouts by 5% and improved inventory turnover by 10%.
 
-</div>
+**Undergraduate Researcher** — SRM University, AP · *Jan 2022 – May 2023*
+Published peer-reviewed research on churn prediction at IEEE 7th ICRAIE; improved prediction accuracy using SMOTE/PCA, saving an estimated $75K.
 
-> The badges above are served directly by **shields.io** and **komarev.com** — both are large, dedicated badge services rather than community-run mirrors, so they don't hit the rate-limit issues that `github-readme-stats.vercel.app` / `github-readme-streak-stats.herokuapp.com` are currently having.
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<!-- Replace OWNER/REPO in the action + workflow to auto-generate this SVG via the contribution-snake GitHub Action -->
-<img src="https://raw.githubusercontent.com/Nandini-678/Nandini-678/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
+</td></tr>
+</table>
 
 <br/>
 
