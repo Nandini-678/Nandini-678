@@ -75,14 +75,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandini-678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini-678&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://img.shields.io/github/followers/Nandini-678?label=Followers&style=for-the-badge&color=8E75B2&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/stars/Nandini-678?label=Stars&style=for-the-badge&color=8E75B2&labelColor=1a1b27" />
+<img src="https://komarev.com/ghpvc/?username=Nandini-678&label=Profile%20Views&style=for-the-badge&color=8E75B2" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-678&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+| Repo | Language | Focus |
+|---|---|---|
+| [DataWarehouseAndMining_Project](https://github.com/Nandini-678/DataWarehouseAndMining_Project) | Jupyter Notebook | Fake job detection using ML classification |
+| [Internship-Project](https://github.com/Nandini-678/Internship-Project) | Jupyter Notebook | Classification techniques on student performance data |
+| [APSSDC_DataScienceInternship_Task](https://github.com/Nandini-678/APSSDC_DataScienceInternship_Task_AP19110010128) | Jupyter Notebook | Data science internship task |
 
 </div>
+
+> The badges above are served directly by **shields.io** and **komarev.com** — both are large, dedicated badge services rather than community-run mirrors, so they don't hit the rate-limit issues that `github-readme-stats.vercel.app` / `github-readme-streak-stats.herokuapp.com` are currently having.
 
 <br/>
 
